@@ -1,0 +1,4 @@
+# ESP32_PressureSensor_Wifi
+IoT Device Using ESP32 With Pressure Sensor and connect to server with Wifi
+
+this code connect to Nextion Intelligents HMI for monitoring sensor value
